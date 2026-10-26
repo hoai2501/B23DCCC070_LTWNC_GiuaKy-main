@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#818b9f"/><stop offset="1" stop-color="#4b536d"/></linearGradient></defs>
+  <rect width="96" height="128" rx="8" fill="url(#g)"/><path d="M0 98 96 63v65H0z" fill="#343b53" opacity=".5"/>
+  <text x="48" y="20" fill="#f3edda" font-family="Arial,sans-serif" font-size="7" font-weight="700" text-anchor="middle">QUẢN TRỊ NHÂN SỰ</text>
+  <circle cx="38" cy="52" r="9" fill="#f0e9d7"/><circle cx="60" cy="52" r="9" fill="#d6c59d"/>
+  <path d="M22 82c0-12 7-19 16-19s16 7 16 19m-5 0c0-12 4-19 11-19s14 7 14 19z" fill="#e8eadc"/>
+  <path d="M31 88h34" stroke="#efcb7b" stroke-width="3" stroke-linecap="round"/>
+</svg>

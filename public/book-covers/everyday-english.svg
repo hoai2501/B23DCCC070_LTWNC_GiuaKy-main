@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#608da6"/><stop offset="1" stop-color="#3c557a"/></linearGradient></defs>
+  <rect width="96" height="128" rx="8" fill="url(#g)"/><path d="M0 98 96 63v65H0z" fill="#293b5c" opacity=".5"/>
+  <text x="48" y="20" fill="#f4ecd9" font-family="Arial,sans-serif" font-size="7" font-weight="700" text-anchor="middle">TIẾNG ANH</text>
+  <path d="M21 42h34a8 8 0 0 1 8 8v20a8 8 0 0 1-8 8H39L27 88v-10h-6zM75 51H62v16h8l5 6z" fill="#f1ead7"/>
+  <path d="M30 54h17m-17 8h21" stroke="#607b96" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

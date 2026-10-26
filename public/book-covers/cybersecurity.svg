@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#498b88"/><stop offset="1" stop-color="#244958"/></linearGradient></defs>
+  <rect width="96" height="128" rx="8" fill="url(#g)"/><path d="M0 97 96 61v67H0z" fill="#203b4b" opacity=".5"/>
+  <text x="48" y="20" fill="#edf3db" font-family="Arial,sans-serif" font-size="7" font-weight="700" text-anchor="middle">AN TOÀN MẠNG</text>
+  <path d="M48 36 69 44v17c0 15-10 25-21 31-11-6-21-16-21-31V44z" fill="#e9eedc"/>
+  <path d="M40 61v-6a8 8 0 0 1 16 0v6m-19 0h22v16H37z" fill="none" stroke="#397276" stroke-width="3"/>
+  <circle cx="48" cy="68" r="2" fill="#397276"/>
+</svg>

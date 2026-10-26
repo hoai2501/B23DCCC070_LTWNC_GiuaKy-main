@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#729873"/><stop offset="1" stop-color="#3a5e53"/></linearGradient></defs>
+  <rect width="96" height="128" rx="8" fill="url(#g)"/><path d="M0 98 96 63v65H0z" fill="#294842" opacity=".5"/>
+  <text x="48" y="20" fill="#f3eed8" font-family="Arial,sans-serif" font-size="7" font-weight="700" text-anchor="middle">KINH TẾ XANH</text>
+  <path d="M48 87V57m0 17c-18 0-25-10-24-24 16 0 24 8 24 24zm0-12c0-16 9-25 25-24 0 16-9 24-25 24z" fill="#e8eed8"/>
+  <path d="M26 92h44" stroke="#f0d28a" stroke-width="3" stroke-linecap="round"/>
+</svg>

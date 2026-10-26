@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#547bb2"/><stop offset="1" stop-color="#343f76"/></linearGradient></defs>
+  <rect width="96" height="128" rx="8" fill="url(#g)"/><path d="M0 97 96 63v65H0z" fill="#293054" opacity=".5"/>
+  <text x="48" y="20" fill="#f0e9d5" font-family="Arial,sans-serif" font-size="7" font-weight="700" text-anchor="middle">TRÍ TUỆ NHÂN TẠO</text>
+  <circle cx="48" cy="61" r="23" fill="#eee9d8"/><circle cx="48" cy="61" r="12" fill="#708bb5"/>
+  <g fill="#f1cf7d"><circle cx="48" cy="40" r="3"/><circle cx="69" cy="61" r="3"/><circle cx="48" cy="82" r="3"/><circle cx="27" cy="61" r="3"/></g>
+  <path d="M48 43v6m18 12h-6m-12 18v-6m-18-12h6" stroke="#f1cf7d" stroke-width="2"/>
+</svg>

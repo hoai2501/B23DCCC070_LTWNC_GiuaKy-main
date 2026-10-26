@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#a270ae"/><stop offset="1" stop-color="#514778"/></linearGradient></defs>
+  <rect width="96" height="128" rx="8" fill="url(#g)"/><path d="M0 97 96 63v65H0z" fill="#393655" opacity=".5"/>
+  <text x="48" y="20" fill="#f5e9dd" font-family="Arial,sans-serif" font-size="7" font-weight="700" text-anchor="middle">THIẾT KẾ WEB</text>
+  <rect x="22" y="38" width="52" height="42" rx="4" fill="#f0ead9"/><path d="M22 48h52" stroke="#bf827f" stroke-width="4"/>
+  <circle cx="29" cy="43" r="1.5" fill="#fff"/><circle cx="35" cy="43" r="1.5" fill="#fff"/>
+  <rect x="29" y="56" width="17" height="17" rx="2" fill="#9fc3b0"/><path d="M51 58h16m-16 6h13m-13 6h10" stroke="#72658d" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

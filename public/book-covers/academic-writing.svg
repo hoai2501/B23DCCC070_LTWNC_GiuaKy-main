@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#708b9e"/><stop offset="1" stop-color="#4b526f"/></linearGradient></defs>
+  <rect width="96" height="128" rx="8" fill="url(#g)"/><path d="M0 98 96 63v65H0z" fill="#343c55" opacity=".5"/>
+  <text x="48" y="20" fill="#f2ecd9" font-family="Arial,sans-serif" font-size="7" font-weight="700" text-anchor="middle">VIẾT HỌC THUẬT</text>
+  <path d="M28 38h40v51H28z" fill="#f0ead8"/><path d="M36 50h24m-24 8h24m-24 8h19m-19 8h22" stroke="#748395" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="m61 81 9-9 5 5-9 9-7 2z" fill="#cf8c71"/>
+</svg>

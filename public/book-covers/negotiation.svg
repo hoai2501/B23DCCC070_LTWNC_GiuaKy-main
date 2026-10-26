@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#c17c63"/><stop offset="1" stop-color="#76515e"/></linearGradient></defs>
+  <rect width="96" height="128" rx="8" fill="url(#g)"/><path d="M0 98 96 62v66H0z" fill="#4b364a" opacity=".5"/>
+  <text x="48" y="20" fill="#fff0d9" font-family="Arial,sans-serif" font-size="7" font-weight="700" text-anchor="middle">NGHỆ THUẬT</text>
+  <text x="48" y="29" fill="#fff0d9" font-family="Arial,sans-serif" font-size="7" font-weight="700" text-anchor="middle">ĐÀM PHÁN</text>
+  <path d="M23 43h31a9 9 0 0 1 9 9v13H41L30 74v-9h-7zM73 49H59v15h8l6 7z" fill="#f2ead7"/>
+  <path d="M31 53h22m-22 6h15m16-4h4" stroke="#9a6d68" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

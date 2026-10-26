@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#609276"/><stop offset="1" stop-color="#355846"/></linearGradient></defs>
+  <rect width="96" height="128" rx="8" fill="url(#g)"/><path d="M0 98 96 61v67H0z" fill="#263e32" opacity=".45"/>
+  <text x="48" y="22" fill="#fff3d6" font-family="Arial, sans-serif" font-size="7.5" font-weight="700" text-anchor="middle">TÀI CHÍNH</text>
+  <text x="48" y="32" fill="#fff3d6" font-family="Arial, sans-serif" font-size="7.5" font-weight="700" text-anchor="middle">CÁ NHÂN</text>
+  <circle cx="49" cy="62" r="23" fill="#f1d79d"/><circle cx="49" cy="62" r="17" fill="none" stroke="#966c3f" stroke-width="2"/>
+  <path d="M54 52c-7-5-15 2-7 7l7 4c8 5 0 13-8 8m4-25v34" fill="none" stroke="#76583a" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="48" y="102" fill="#e6eee1" font-family="Arial, sans-serif" font-size="6.5" font-weight="600" text-anchor="middle">THÔNG MINH</text>
+</svg>

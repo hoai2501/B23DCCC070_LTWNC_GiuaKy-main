@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 128">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#6c8f93"/><stop offset="1" stop-color="#3c5766"/></linearGradient></defs>
+  <rect width="96" height="128" rx="8" fill="url(#g)"/><path d="M0 98 96 63v65H0z" fill="#2a414d" opacity=".5"/>
+  <text x="48" y="20" fill="#f0ead8" font-family="Arial,sans-serif" font-size="7" font-weight="700" text-anchor="middle">KINH DOANH SỐ</text>
+  <circle cx="48" cy="62" r="23" fill="#efe9d6"/><path d="M25 62h46M48 39c-12 12-12 34 0 46m0-46c12 12 12 34 0 46M31 49h34M31 75h34" fill="none" stroke="#688c83" stroke-width="2"/>
+  <path d="m42 63 5 5 10-12" fill="none" stroke="#c27b69" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
